@@ -9,7 +9,7 @@
 2. Haleema Zehera.
 3. Gaurav Kashyap.
 4. Rajkumar Yadav.
-5. Tarun Rakhunde.
+5. Tarun Rakhunde.<br><br>
 These is a collaborative project of 5 team members buid in 6 days.
 
 # Tech Stack  used 
