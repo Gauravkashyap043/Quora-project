@@ -161,10 +161,10 @@
   border-radius: 33px;
   cursor: pointer;
 }
-.MuiButton-label{
+/* .MuiButton-label{
   background-color: #b92b27;
   border-radius: 0 px;
-}
+} */
 
 .modal__Field {
   display: flex;

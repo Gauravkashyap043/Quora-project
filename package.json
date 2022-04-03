@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npm start --prefix frontend",
-    "server": "nodemon backend/server",
-    "start": "nodemon --watch backend --exec node backend/server.js"
+    "server": "node backend/server",
+    "start": "node backend/server.js"
   },
   "author": "",
   "license": "ISC",
