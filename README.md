@@ -13,14 +13,25 @@
 These is a collaborative project of 5 team members buid in 6 days.
 
 # Tech Stack  used 
-CSS, HTML, Javascript, React, Redux , ExpressJS, MongoDB, Firebase.
+- CSS
+- HTML
+- Javascript
+- React
+- Redux
+- ExpressJS
+- NodeJS
+- MongoDB
+- Firebase.
 
 # Challenge we faced
-Merging each other code on Github<br>
-Read others code and make changes to it<br>
-Build and write APIS and deploy it to the MongoDB server<br>
-Edge case problem solving<br>
+- Merging each other code on Github<br>
+- Read others code and make changes to it<br>
+- Build and write APIS and deploy it to the MongoDB server<br>
+- Edge case problem solving<br>
 
 # Blog
 https://medium.com/@tarunrakhunde/quora-clone-project-9ae321356895
+
+# Thanking note
+If you are still here and reading these we fell so glad. Thank you for giving time to visit our project!!!.
 
