@@ -70,10 +70,11 @@ function QuoraHeader() {
     <div className="qHeader">
       <div className="qHeader-content">
         <div className="qHeader__logo">
-          <img
+          {/* <img
             src="https://video-public.canva.com/VAD8lt3jPyI/v/ec7205f25c.gif"
             alt="logo"
-          />
+          /> */}
+          <h1 className="quora-name">Quora</h1>
         </div>
         <div className="qHeader__icons">
           <div className="qHeader__icon">

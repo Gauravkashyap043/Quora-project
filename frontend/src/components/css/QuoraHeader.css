@@ -21,6 +21,7 @@
 .qHeader__logo > img {
   height: 30px !important;
   object-fit: contain;
+  color: red;
 }
 
 .qHeader__icons {
@@ -160,7 +161,10 @@
   border-radius: 33px;
   cursor: pointer;
 }
-
+.MuiButton-label{
+  background-color: #b92b27;
+  border-radius: 0 px;
+}
 
 .modal__Field {
   display: flex;
@@ -246,4 +250,7 @@
   .qHeader__input {
     display: none;
   }
+}
+.quora-name{
+  color: #b92b27;
 }
